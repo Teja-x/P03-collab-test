@@ -23,7 +23,8 @@ To practice:
 
 ## Demo Content
 
-This project includes small updates to the `README.md` file to simulate collaboration, but the workflow mirrors what you'd do in a real project.
+This project includes small updates to the `README.md` file to simulate collaboration, but the workflow mirrors what you'd do in a real project. 
+This is a simulated collaboration change
 
 ## Status
 
